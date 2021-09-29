@@ -33,6 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyoVayo&show_icons=true&theme=cobalt&locale=en&count_private=true&hide=issues" alt="AyoVayo" width="50%" /></p>
 
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilgecakar" alt="bilgecakar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyoVayo" alt="AyoVayo" /> </p>
  </div>
 
