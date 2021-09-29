@@ -28,7 +28,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyoVayo&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="AyoVayo" /></p>
+<p><img align="left" src="https://github-readme-stats-pearl-chi.vercel.app/api/top-langs?username=AyoVayo&show_icons=true&theme=cobalt&locale=en&layout=compact&count-private=true" alt="AyoVayo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyoVayo&show_icons=true&theme=cobalt&locale=en&count_private=true&hide=issues" alt="AyoVayo" width="50%" /></p>
 
