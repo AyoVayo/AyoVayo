@@ -35,22 +35,22 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="Icons/visualstudio_code.png" height=40>
-<img src="Icons/jetbrains_phpstorm.png" height=40>
-<img src="Icons/jetbrains_intellij.png" height=40>
+<a href="https://code.visualstudio.com" target="_blank"> <img src="Icons/visualstudio_code.png" height=40> </a>
+<a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="Icons/jetbrains_phpstorm.png" height=40> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="Icons/jetbrains_intellij.png" height=40> </a>
  <br>
- <img src="Icons/reactnative.png" height=40>
- <img src="Icons/laravel.png" height=40>
- <img src="Icons/flutter.png" height=40>
- <img src="Icons/unity.png" height=40>
+<a href="https://reactnative.dev" target="_blank"> <img src="Icons/reactnative.png" height=40> </a>
+<a href="https://laravel.com" target="_blank"> <img src="Icons/laravel.png" height=40> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="Icons/flutter.png" height=40> </a>
+<a href="https://unity.com" target="_blank"> <img src="Icons/unity.png" height=40> </a>
  <br>
- <img src="Icons/dart_colour.png" height=40>
- <img src="Icons/html.png" height=40>
- <img src="Icons/css3.png" height=40>
- <img src="Icons/js.png" height=40>
+<a href="https://dart.dev" target="_blank"> <img src="Icons/dart_colour.png" height=40> </a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="Icons/html.png" height=40> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="Icons/css3.png" height=40> </a>
+<a href="https://www.javascript.com" target="_blank"> <img src="Icons/js.png" height=40> </a>
  <br>
- <img src="Icons/bootstrap.png" height=40>
- <img src="Icons/Group 1493.png" height=40>
+<a href="https://getbootstrap.com" target="_blank"> <img src="Icons/bootstrap.png" height=40> </a>
+<a href="https://firebase.google.com" target="_blank"> <img src="Icons/Group 1493.png" height=40> </a>
 </p>
 </br>
 </br>
@@ -68,13 +68,13 @@ If you want to reach out just contact me.
 <a href="mailto:alikeremocal@gmail.com">
  <img align="left" alt="Gmail" height=40 src="Icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/alikeremocal/">
+<a href="https://www.linkedin.com/in/alikeremocal/" target="_blank">
   <img align="left" alt="Linkedin" height=40 src="Icons/linkedin.png" />
 </br>
 </br>
 </br>
 </a>
-<a href="https://steamcommunity.com/profiles/76561198170604687/">
+<a href="https://steamcommunity.com/profiles/76561198170604687/" target="_blank">
   <img align="left" alt="Steam" height=40 src="Icons/steam.png" />
 </a>
  </p>
