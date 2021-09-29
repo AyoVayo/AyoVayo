@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyoVayo&theme=dracula" alt="AyoVayo" /></a> </p>
 
-- 🌱 I’m currently learning Flutter to develop mobile apps
+- I’m currently learning Flutter to develop mobile apps <a href="https://flutter.dev/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="flutter" height="30" width="30" /></a>
 
 - 📝 My [Instagram page](https://www.instagram.com/alikeremocal/)
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
 <a href="https://www.linkedin.com/in/alikeremocal/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="alikeremocal" height="30" width="30" /></a>
-<a href="https://www.instagram.com/blg.cakar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="bilgecakar" height="30" width="30" /></a>
+<a href="https://www.instagram.com/alikeremocal/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="alikeremocal" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Technologies and Tools:</h3>
