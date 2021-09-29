@@ -12,7 +12,7 @@
 
 ### - I'm 22 years old Software Developer from Turkey
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/g4sCZhKykg1z2/giphy.gif?cid=790b76114bcf5150455981faacecf8a3f73152a84dd28816&rid=giphy.gif&ct=g">
 
 ### - Learning :
 
