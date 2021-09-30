@@ -21,7 +21,7 @@
 
 ### - Hobbies :
 
-- ✨ Gaming Addict
+- ✨ Playing Games
 - ✨ Playing Piano
 
 </br>
