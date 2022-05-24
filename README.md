@@ -16,7 +16,7 @@
 
 ### - Learning :
 
-- ✨ iOS
+- ✨ iOS - Swift
 - ✨ Game Development
 
 ### - Hobbies :
